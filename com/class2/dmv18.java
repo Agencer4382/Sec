@@ -2,7 +2,7 @@ package com.class2;
 import java.util.Scanner;
 
 
-public class dmv18 {
+public class Dmv18 {
 
 	public static void main(String[] args) {
 		int age;

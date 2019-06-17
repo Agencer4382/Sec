@@ -1,6 +1,6 @@
 package com.class2;
 
-public class hw31 {
+public class Hw31 {
 
 	public static void main(String[] args) {
 		double a = 25.7;

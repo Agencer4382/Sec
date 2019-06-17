@@ -2,7 +2,7 @@ package com.class2;
 import java.util.Scanner;
 
 
-public class scannerandif {
+public class ScannerAndIf {
 
 	public static void main(String[] args) {
 		

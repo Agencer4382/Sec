@@ -1,0 +1,15 @@
+package asim;
+
+class apple{
+	public static void main(String[] args) {
+		kevin kevinObject = new kevin("ayse");
+		kevin kevinObject2 = new kevin("sabht");
+		kevinObject.saying();
+		kevinObject2.saying();
+		
+		
+		
+	}
+	
+	
+}

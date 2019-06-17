@@ -4,14 +4,29 @@ public class MultiDimArray {
 
 	public static void main(String[] args) {
 
-		int[][] d =new int[4][4];
-		        
-		d[0][0]=10;
-		d[0][1]=11;
-		d[0][2]=12;
-		d[0][3]=14;
-	   
-System.out.println(d[0][1]);
+		int a[][] = { { 100, 5000, 7, 9 }, { 15, 6, 8, 1 }, { 30, 56 } };
+		int max =Integer.MIN_VALUE;
+		int max2=0;
+
+		for (int x = 0; x < a.length; x++) {
+
+			for (int y = 0; y < a[x].length; y++) {
+				
+				if (a[x][y]>max) {
+					max2=max;
+					max=a[x][y];
+
+			}else if (a[x][y]>max2&&a[x][y]!=max) {
+				max2=a[x][y];
+			}
+			
+				
+			}
+		}
+
+		System.out.println(max);
+		System.out.println(max2);
+
 	}
 
 }

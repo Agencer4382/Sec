@@ -1,6 +1,6 @@
 package com.class2;
 
-public class nestedif {
+public class NestedIf {
 //write a program to check work 
 	// if user is younger<16-->not allowed
 	// otherwise allow to work. if younger than 64 ---go to work---otherwise enjoy

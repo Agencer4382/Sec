@@ -2,7 +2,7 @@ package com.class2;
 import java.util.Scanner;
 
 
-public class cityandtemp {
+public class CityAndTemp {
 
 	public static void main(String[] args) {
 		//enter city and temp in fahren
@@ -12,6 +12,7 @@ public class cityandtemp {
 		String cityName;
 		int temp;
 		
+	
 		Scanner kevin = new Scanner(System.in);
 		System.out.println("enter the city");
 		cityName=kevin.nextLine();

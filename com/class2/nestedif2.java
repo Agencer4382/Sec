@@ -1,6 +1,6 @@
 package com.class2;
 
-public class nestedif2 {
+public class NestedIf2 {
 	// declare variable for gpa and having a diploma
 	// if user has a diploma -->congratulations--> if gpa is higher
 	// 3.5-->hire....else don hire

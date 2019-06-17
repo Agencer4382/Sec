@@ -9,9 +9,9 @@ String [][]cars= {{"gmc","ford","linconl"},{"bmw","VW","mercedes"},{"hyundai","k
 		for(int rows=0; rows<cars.length; rows++) {
 			
 			for(int col=0; col<cars[rows].length; col++) {
-				System.out.print(cars[rows][col]+" ");
+				System.out.print(cars[rows][col]+"\n");
 			}
-			System.out.println();
+		
 		}
 			
 			

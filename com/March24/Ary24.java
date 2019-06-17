@@ -8,7 +8,7 @@ public class Ary24 {
 		
 		for(String[] num:grocery) {
 			for(String yum:num) {
-				System.out.print(1+" "+yum+"  ");
+				System.out.print(yum+"  ");
 			}
 			System.out.println();
 		}

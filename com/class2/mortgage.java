@@ -2,7 +2,7 @@ package com.class2;
 
 import java.util.Scanner;
 
-public class mortgage {
+public class Mortgage {
 
 	public static void main(String[] args) {
 		int mortgagePrice;

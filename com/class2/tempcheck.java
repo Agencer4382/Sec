@@ -1,6 +1,6 @@
 package com.class2;
 
-public class tempcheck {
+public class TempCheck {
 
 	public static void main(String[] args) {
 		int store=28;
