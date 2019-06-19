@@ -1,6 +1,6 @@
 package march2;
 
-public class nestedif {
+public class NestedIfCreditCard {
 
 	public static void main(String[] args) {
 	//if user credit card

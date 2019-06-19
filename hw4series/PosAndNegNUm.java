@@ -2,7 +2,7 @@ package hw4series;
 
 import java.util.Scanner;
 
-public class hw41scanner {
+public class PosAndNegNUm {
 
 	public static void main(String[] args) {
 		// The variable "num" holds an integer user input

@@ -2,7 +2,7 @@ package hw4series;
 
 import java.util.Scanner;
 
-public class hw46 {
+public class ScannerFnumSnum {
 
 	public static void main(String[] args) {
 		int x,y;

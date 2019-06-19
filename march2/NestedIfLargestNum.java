@@ -2,7 +2,7 @@ package march2;
 
 import java.util.Scanner;
 
-public class homeworklargestnum {
+public class NestedIfLargestNum {
 
 	public static void main(String[] args) {
 

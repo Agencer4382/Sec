@@ -2,7 +2,7 @@ package hw4series;
 
 import java.util.Scanner;
 
-public class hw42 {
+public class ScannerContent {
 
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package hw4series;
 
 import java.util.Scanner;
 
-public class hw55 {
+public class BooleanScanner {
 
 	public static void main(String[] args) {
 

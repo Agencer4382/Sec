@@ -10,7 +10,7 @@ public class Task3 {
 		int min = ary[0];
 
 		for (int i = 0; i < ary.length; i++) {
-			if (ary[i] > min) {
+			if (ary[i] > max) {
 				max = ary[i];
 
 			} else if (ary[i] < min) {

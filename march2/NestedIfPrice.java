@@ -2,7 +2,7 @@ package march2;
 
 import java.util.Scanner;
 
-public class pricebooleanvalue {
+public class NestedIfPrice {
 
 	public static void main(String[] args) {
 		// user enter price and boolean value for sale

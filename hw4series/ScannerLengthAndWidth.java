@@ -2,7 +2,7 @@ package hw4series;
 
 import java.util.Scanner;
 
-public class hw45 {
+public class ScannerLengthAndWidth {
 
 	public static void main(String[] args) {
 		

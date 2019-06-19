@@ -1,6 +1,6 @@
 package march2;
 
-public class logicaloprtr {
+public class Logicaloprtr {
 
 	public static void main(String[] args) {
 		//if number is between 1-10.....small

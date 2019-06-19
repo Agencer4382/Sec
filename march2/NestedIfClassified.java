@@ -2,7 +2,7 @@ package march2;
 import java.util.Scanner;
 
 
-public class taskandor {
+public class NestedIfClassified {
 
 	public static void main(String[] args) {
 		//promt the user to enter 2 people heights in inches each person classified following

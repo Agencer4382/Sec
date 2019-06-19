@@ -2,7 +2,7 @@ package march2;
 
 import java.util.Scanner;
 
-public class quiz {
+public class NestedIfQuiz {
 
 	public static void main(String[] args) {
 		// avgScore=(quiz+mid term+final scores)

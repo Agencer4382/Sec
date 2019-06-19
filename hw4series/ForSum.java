@@ -1,6 +1,6 @@
 package hw4series;
 
-class apple {
+class ForSum {
 
 	public static void main(String[] args) {
 int a=3;

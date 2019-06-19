@@ -1,7 +1,7 @@
 package march2;
 import java.util.Scanner;
 
-public class ders2 {
+public class NestedIfAge {
 
 	public static void main(String[] args) {
 		//ask user age enter the age

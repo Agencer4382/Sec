@@ -1,6 +1,6 @@
 package hw4series;
 import java.util.Scanner;
-public class scannernamechen {
+public class ScannerEquals {
 
 	public static void main(String[] args) {
 	

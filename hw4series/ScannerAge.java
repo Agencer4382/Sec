@@ -2,7 +2,7 @@ package hw4series;
 import java.util.Scanner;
 
 
-public class hw44 {
+public class ScannerAge {
 
 	public static void main(String[] args) {
 		int age;
